@@ -5,7 +5,7 @@ Void is a theme for [Omarchy](https://omarchy.org) inspired by purple void color
 ## Preview
 
 ![Omarchy Void](./assets/homescreen_1.png)<br>
-![Omarchy setup](./assets/setup-1.png)
+![Omarchy Void](./assets/setup-1.png)
 
 ## Installation
 
