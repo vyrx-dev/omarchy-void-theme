@@ -1,0 +1,47 @@
+# Make the overall background even darker
+theme[main_bg]="#080611"        # ultra-dark purple-black
+
+# Keep main text and accents
+theme[main_fg]="#b497ce"
+theme[title]="#9266c4"
+theme[hi_fg]="#8047b9"
+
+# Enhance process section visibility
+theme[proc_box]="#1c142b"       # darker outline for proc box
+theme[proc_misc]="#d1c3eb"      # brighter misc graph/text in proc
+theme[graph_text]="#d1c3eb"     # ensure graph labels stand out
+
+# Selected item in proc
+theme[selected_bg]="#1f1635"
+theme[selected_fg]="#ffffff"    # pure white for maximum clarity
+
+# Inactive/disabled remains muted
+theme[inactive_fg]="#4a3d5c"
+
+# Box outlines and dividers match the deeper theme
+theme[cpu_box]="#1c142b"
+theme[mem_box]="#1c142b"
+theme[net_box]="#1c142b"
+theme[div_line]="#100b1f"
+
+# Graph gradients retain your palette
+theme[temp_start]="#080611"
+theme[temp_mid]="#8047b9"
+theme[temp_end]="#b497ce"
+
+theme[cpu_start]="#080611"
+theme[cpu_mid]="#1c142b"
+theme[cpu_end]="#9266c4"
+
+theme[free_start]="#080611"
+theme[free_mid]="#1c142b"
+theme[free_end]="#b497ce"
+
+theme[cached_start]="#080611"
+theme[cached_mid]="#1c142b"
+theme[cached_end]="#9266c4"
+
+theme[available_start]="#080611"
+theme[available_mid]="#1c142b"
+theme[available_end]="#b497ce"
+
