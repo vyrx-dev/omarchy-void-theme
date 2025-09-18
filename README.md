@@ -7,6 +7,10 @@ Void is a theme for [Omarchy](https://omarchy.org) inspired by purple void color
 ![Omarchy homescreen setup](./assets/homescreen_1.png)<br>
 ![Omarchy btop](./assets/setup-1.png)
 
+## Neovim Theme
+
+[https://github.com/vyrx-dev/void.nvim.git](https://github.com/vyrx-dev/void.nvim.git)
+
 ## Installation
 
 To install this theme, simply use the `omarchy-theme-install` command:
