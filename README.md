@@ -1,20 +1,30 @@
-# Void theme for Omarchy
+# Void Theme for Omarchy
 
-Void is a theme for [Omarchy](https://omarchy.org) inspired by purple void color palettes. It focuses on deep, low-contrast purples and soft accents for a calm, focused UI.
+A thoughtfully crafted theme for [Omarchy](https://omarchy.org)
+with subtle purples, soft contrasts, and gentle highlights  made to feel calm, inviting, and keep you focused on what matters.
 
+> *"In the void, only your code matters. Everything else fades away."*
+>
 ## Preview
 
-![Omarchy homescreen setup](./assets/homescreen_1.png)<br>
-![Omarchy btop](./assets/setup-1.png)<br>
-![Omarchy lazygit](./assets/setup-2.png)<br>
+| Lazygit |  BTOP   | Walker     |
+|:---:|:---:|:---:|
+| ![Lazygit](assets/lazygit.png) | ![Btop](assets/btop.png) | ![Walker](assets/walker.png) |
 
-## Neovim Theme
+![Omarchy homescreen setup](./assets/homescreen.png)
+![Omarchy btop](./assets/setup-1.png)
 
-[https://github.com/vyrx-dev/void.nvim.git](https://github.com/vyrx-dev/void.nvim.git)
+---
+
+## Color Palette
+
+![Void Color Palette](./assets/pallete.png)
+
+---
 
 ## Installation
 
-To install this theme, simply use the `omarchy-theme-install` command:
+**Just run:**
 
 ```bash
 omarchy-theme-install https://github.com/vyrx-dev/omarchy-void-theme.git
