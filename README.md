@@ -1,4 +1,4 @@
-# Void Theme for Omarchy
+# 👾 Void Theme for Omarchy
 
 A thoughtfully crafted theme for [Omarchy](https://omarchy.org)
 with subtle purples, soft contrasts, and gentle highlights  made to feel calm, inviting, and keep you focused on what matters.
@@ -23,8 +23,6 @@ with subtle purples, soft contrasts, and gentle highlights  made to feel calm, i
 ---
 
 ## Installation
-
-**Just run:**
 
 ```bash
 omarchy-theme-install https://github.com/vyrx-dev/omarchy-void-theme.git
